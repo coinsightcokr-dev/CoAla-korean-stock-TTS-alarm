@@ -118,8 +118,20 @@ TTS 음성으로 제공합니다.
 
 9. 알람 로그에 알람에 대한 로그가 기록됩니다. 
 
-   
+
 -------------------------------------
+실행방법
+
+1. stock_alarm.py 및 requirements.txt 다운로드
+
+python 설치, path 설정 후 저장한 폴더로 이동하여 
+
+pip install -r requirements.txt
+python stock_alarm.py
+
+2. 또는 오른쪽 releases에서 exe 파일 다운로드 및 실행 
+-------------------------------------
+
 참고
 
 http://www.coinsight.co.kr
